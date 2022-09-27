@@ -1,0 +1,414 @@
+/* XXL Device :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+   
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -100px;
+    }
+
+    .content-part-1 .card, .content-part-2 .card, .content-part-3 .card {
+        width: 26rem;
+        height: 8.5rem;
+    }
+    .menu-box ul li {
+        margin-right: 187px;
+    }
+}
+    /* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -90px;
+    }
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        width: 22rem;
+        height: 8.5rem;
+    }
+
+    .wel-1 span i {
+        font-size: 30px;
+        margin-top: -5px;
+        
+    }
+
+        .menu-box ul{
+            margin-left: 6%;
+        }
+        .menu-box ul li{
+            margin-right: 146px;
+           
+        }
+        .menu-box ul li a {
+            font-size: 29px;
+        }
+        
+}
+   
+
+  /* XG Device :1200px. */ 
+@media (min-width: 992px) and (max-width: 1199px) {
+    .wel-1 span i {
+        margin-left: 35px;
+        margin-top: -1px;
+        font-size: 30px; 
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        left: 40%;
+    }
+    .content-part-3 .card .card-body p {
+        left: 33%;
+    }
+   
+    .menu-box ul li{
+        margin-right: 106px;
+        padding-right: 1px;    
+    }
+    .menu-box ul li a {
+        font-size: 25px;
+    }
+       
+
+}
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    
+    .wel h3 {
+        letter-spacing: 1.1px;
+        margin-left: 2px;
+        font-size: 18px;
+    }
+    .wel-2 h4 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    .wel-1 span i {
+        margin-left: 10px;
+        margin-top: 1px;
+        font-size: 20px;
+        padding: 5px;
+    }
+
+    /* main */
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -63px;
+        margin-right: -4px;
+
+    }
+
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        position: initial;
+        background-color: #0000ff75;
+        width: 14rem;
+        height: 8.5rem;
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        font-size: 40px;
+        color: #ffffff;
+        position: relative;
+        top: 20px;
+        left: 40%;
+    }
+    .card-text.fl-up {
+        margin-top: 2px;
+    }
+    .content-part-3 .card .card-body p {
+        left: 32%;
+    }
+    
+    /* menu */
+    .menu-box ul {
+        margin-left: 3%;
+    }
+    .menu-box ul li{
+        margin-right: 68px;
+        padding-right: 5px;   
+    }
+    .menu-box ul li a {
+        font-size: 22px;
+    }
+   
+}
+
+
+/* SM Device :576px. */
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .wel h3 {
+        letter-spacing: 1.1px;
+        margin-left: 2px;
+        font-size: 18px;
+    }
+    .wel-2 h4 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    .wel-1 span i {
+        margin-left: 10px;
+        margin-top: 2px;
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    /* main */
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -50px;
+    }
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        position: initial;
+        background-color: #0000ff75;
+        width: 10rem;
+        height: 7.5rem;
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        left: 38%;
+    }
+    .card-text.fl-up {
+        margin-top: -18px;
+    }
+    .content-part-3 .card .card-body p {
+        left: 27%;
+    }
+
+    /* menu */
+    .menu-box ul {
+        margin-left: 2%;
+    }
+    .menu-box ul li{
+        margin-right: 32px;
+        padding-right: 4px;
+    }
+    .menu-box ul li a {
+        font-size: 20px;
+    }
+    
+}
+
+/* XS Device 541 */
+@media (min-width: 541px) and (max-width: 575px) {
+
+    .wel h3 {
+        letter-spacing: 1.1px;
+        margin-left: 2px;
+        font-size: 18px;
+    }
+    .wel-2 h4 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+    .wel-1 span i {
+        margin-left: 10px;
+        margin-top: 2px;
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    /* main */
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -50px;
+    }
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        position: initial;
+        background-color: #0000ff75;
+        width: 10rem;
+        height: 7.5rem;
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        left: 37%;
+    }
+    .card-text.fl-up {
+        margin-top: -18px;
+    }
+    .content-part-3 .card .card-body p {
+        left: 28%;
+    }
+
+    /* menu */
+    .menu-box ul {
+        margin-left: 1%;
+    }
+    .menu-box ul li{
+        margin-right: 47px;
+        padding-right: 5px;   
+    }
+    .menu-box ul li a {
+        font-size: 15px;
+    }
+
+
+}
+
+/* XXS Device 340 */
+@media (min-width: 340px) and (max-width: 540px) {
+    .slider-section {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .wel h3 {
+        margin-left: 0px;
+        font-size: 10px;
+    }
+    .wel-2 h4 {
+        font-size: 10px;
+        margin-left: 3px;
+    
+    }
+    .wel-1 span i {
+        margin-left: 6px;
+        margin-top: -8px;
+        font-size: 14px;
+        padding: 3px;
+    }
+
+    /* main */
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -37px;
+        margin-right: 5px;
+    }
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        position: initial;
+        width: 6rem;
+        height: 5.5rem;
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        font-size: 28px;
+        top: 14px;
+        left: 39%;
+    }
+    .content-part-1 .card .card-body p,
+    .content-part-2 .card .card-body p {
+        font-size: 12px;
+        top: 2px;
+
+    }
+    .content-part-3 .card .card-body p {
+        font-size: 12px;
+        top: 5px;
+        left: 14%;
+    }
+    #fees{
+        margin-left: 5px;
+    }
+
+    /* menu */
+    .menu-box ul {
+        margin-left: 0%;
+    }
+    .menu-box ul li{
+        margin-right: -10px;
+        padding-right: 0px; 
+    }
+    .menu-box ul li a {
+        font-size: 18px;
+    }
+
+
+}
+
+/* XXXS Device 260 */
+@media (min-width: 260px) and (max-width: 339px) {
+
+    .slider-section {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .wel h3 {
+        margin-left: 0px;
+        font-size: 8px;
+    }
+    .wel-2 h4 {
+        font-size: 8px;
+        margin-left: 3px;
+    
+    }
+    .wel-1 span i {
+        margin-left: 6px;
+        margin-top: -8px;
+        font-size: 12px;
+        padding: 2px;
+    }
+
+    /* main */
+    .justify-content-sm-evenly {
+        justify-content: space-evenly!important;
+        margin-left: -40px;
+        margin-right: 1px;
+    }
+    .content-part-1 .card,
+     .content-part-2 .card,
+      .content-part-3 .card {
+        position: initial;
+        width: 5rem;
+        height: 4.5rem;
+    }
+    .content-part-1 .card a i,
+     .content-part-2 .card a i,
+      .content-part-3 .card a i {
+        font-size: 18px;
+        top: 8px;
+        left: 40%;
+    }
+    .content-part-1 .card .card-body p,
+    .content-part-2 .card .card-body p {
+        font-size: 9px;
+        top: -1px;
+
+    }
+    .content-part-3 .card .card-body p {
+        font-size: 9px;
+        top: 3px;
+        left: 27%;
+    }
+
+    /* menu */
+    .menu-box ul {
+        margin-left: -3%;
+    }
+    .menu-box ul li{
+        margin-right: 0px;
+        padding-right: 1px;
+        margin-top: 0px;
+    }
+    .menu-box ul li a {
+        font-size: 13px;
+    }
+    .home,
+    .frofile,
+    .seles,
+    .logout{
+        margin-left: -12px;
+    }
+
+    .tracking-box table{
+        width: 50% !important;
+    }
+
+}
+
+  
+
